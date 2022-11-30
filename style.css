@@ -2,6 +2,7 @@
     padding-top:10%;
     padding-left:40%;
     padding-right:40%;
+    max-height: 150px;
 }
 #quote{
     font-weight: bold;

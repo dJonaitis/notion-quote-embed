@@ -16,7 +16,7 @@ const lib = {
             name: "Brave New World",
             year: "1932",
             author: "Aldous Huxley",
-            quotes: ["To the Bolshevist idealist, Utopia is indistinguishable from a Ford factory."]
+            quotes: ["To the Bolshevist idealist, Utopia is indistinguishable from a Ford factory.", "But I don't want comfort. I want God, I want poetry, I want real danger, I want freedom, I want goodness. I want sin.", "If one's different, one's bound to be lonely.", "I am I, and I wish I weren't.", "Chronic remorse, as all the moralists are agreed, is a most undesirable sentiment. If you have behaved badly, repent, make what amends you can and address yourself to the task of behaving better next time. On no account brood over your wrongdoing. Rolling in the muck is not the best way of getting clean.", "Most human beings have an almost infinite capacity for taking things for granted.", "...most men and women will grow up to love their servitude and will never dream of revolution.", "I ate civilization. It poisoned me; I was defiled. And then, he added in a lower tone, I ate my own wickedness.", "A really efficient totalitarian state would be one in which the all-powerful executive of political bosses and their army of managers control a population of slaves who do not have to be coerced, because they love their servitude.", "Ending is better than mending."]
         },
         {
             name: "The Road to Wigan Pier",
